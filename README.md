@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 ## Divide and Conquer
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
