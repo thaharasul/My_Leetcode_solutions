@@ -67,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
