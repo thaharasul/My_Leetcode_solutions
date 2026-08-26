@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -123,10 +126,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
