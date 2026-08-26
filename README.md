@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 ## Divide and Conquer
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
