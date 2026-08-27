@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
