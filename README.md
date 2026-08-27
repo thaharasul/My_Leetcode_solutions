@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
