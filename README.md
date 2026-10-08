@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
@@ -115,6 +117,7 @@
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -351,6 +354,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
