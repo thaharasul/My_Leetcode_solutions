@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
