@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
