@@ -48,6 +48,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -267,6 +268,7 @@
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
