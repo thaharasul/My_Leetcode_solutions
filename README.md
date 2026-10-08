@@ -262,6 +262,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -454,4 +455,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
