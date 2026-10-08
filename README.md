@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0164-maximum-gap) |
@@ -128,6 +130,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
@@ -423,9 +426,11 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
