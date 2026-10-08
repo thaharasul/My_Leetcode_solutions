@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
