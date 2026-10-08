@@ -39,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
@@ -258,6 +259,7 @@
 | [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
