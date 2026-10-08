@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -279,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
