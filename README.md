@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 ## Queue
 |  |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
