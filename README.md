@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -367,6 +368,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
