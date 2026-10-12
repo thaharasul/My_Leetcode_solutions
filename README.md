@@ -96,6 +96,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0767-reorganize-string) |
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -511,6 +514,7 @@
 | [0503-next-greater-element-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Queue
 |  |
 | ------- |
@@ -550,6 +554,7 @@
 | [0496-next-greater-element-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
