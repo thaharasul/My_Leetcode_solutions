@@ -178,6 +178,7 @@
 | [0796-rotate-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
+| [1143-longest-common-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
@@ -273,6 +274,7 @@
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 ## Manacher
 |  |
@@ -930,4 +932,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
