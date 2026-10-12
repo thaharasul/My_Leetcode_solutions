@@ -17,6 +17,7 @@
 | [0046-permutations](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -374,6 +375,7 @@
 | [0040-combination-sum-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
@@ -558,6 +560,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
