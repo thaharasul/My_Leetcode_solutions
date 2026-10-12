@@ -53,6 +53,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -405,6 +406,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
