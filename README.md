@@ -644,6 +644,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
 |  |
@@ -680,12 +681,14 @@
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -789,6 +792,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -801,4 +805,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
