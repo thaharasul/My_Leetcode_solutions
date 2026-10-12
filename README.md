@@ -52,6 +52,7 @@
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -128,6 +129,7 @@
 | [0274-h-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
@@ -164,6 +166,7 @@
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -541,6 +544,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
@@ -678,6 +682,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -735,6 +740,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -902,4 +908,16 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
