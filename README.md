@@ -61,6 +61,7 @@
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -331,6 +332,7 @@
 | [0278-first-bad-version](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -512,6 +514,7 @@
 | [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -606,6 +609,7 @@
 | [0200-number-of-islands](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 ## Interactive
 |  |
@@ -645,6 +649,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
@@ -682,6 +687,7 @@
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -790,6 +796,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -808,6 +815,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -832,4 +840,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
