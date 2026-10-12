@@ -510,6 +510,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -642,6 +643,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
 |  |
@@ -677,11 +679,13 @@
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -789,4 +793,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
