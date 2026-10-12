@@ -699,6 +699,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -706,6 +707,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -724,6 +726,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
