@@ -59,6 +59,7 @@
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
@@ -244,6 +245,7 @@
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -389,6 +391,7 @@
 | [0090-subsets-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
@@ -545,6 +548,7 @@
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -579,4 +583,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
