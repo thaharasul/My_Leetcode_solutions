@@ -111,6 +111,7 @@
 | [0242-valid-anagram](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -186,6 +187,7 @@
 | [0234-palindrome-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
@@ -378,6 +380,7 @@
 | [0155-min-stack](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 ## Pigeonhole Principle
 |  |
@@ -489,6 +492,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -640,4 +644,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
