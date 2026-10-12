@@ -63,6 +63,7 @@
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -257,6 +258,7 @@
 | [0198-house-robber](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1668-maximum-repeating-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 ## Manacher
