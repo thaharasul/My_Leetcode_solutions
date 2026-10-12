@@ -59,6 +59,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -277,6 +278,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -466,6 +468,7 @@
 | [0113-path-sum-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
@@ -921,6 +924,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -950,4 +954,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
