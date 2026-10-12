@@ -183,6 +183,7 @@
 | [0140-word-break-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0214-shortest-palindrome) |
@@ -336,6 +337,7 @@
 | [0070-climbing-stairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
