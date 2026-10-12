@@ -246,6 +246,7 @@
 | [0131-palindrome-partitioning](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1668-maximum-repeating-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 ## Manacher
 |  |
@@ -516,6 +517,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
@@ -653,6 +655,7 @@
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
@@ -692,6 +695,7 @@
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -701,6 +705,7 @@
 | [0207-course-schedule](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -818,6 +823,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
