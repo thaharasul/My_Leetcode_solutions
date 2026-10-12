@@ -190,6 +190,7 @@
 | [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
@@ -338,6 +339,7 @@
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
