@@ -628,6 +628,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -702,6 +703,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -712,6 +714,7 @@
 | [0099-recover-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -731,6 +734,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
