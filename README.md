@@ -76,6 +76,7 @@
 | [1408-string-matching-in-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -339,6 +340,7 @@
 | [1044-longest-duplicate-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -520,6 +522,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -615,6 +618,7 @@
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Interactive
 |  |
 | ------- |
@@ -658,6 +662,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -699,6 +704,7 @@
 | [0802-find-eventual-safe-states](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -810,6 +816,7 @@
 | [0695-max-area-of-island](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -829,6 +836,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
+| [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
