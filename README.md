@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0076-minimum-window-substring) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
@@ -517,6 +520,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
@@ -543,4 +547,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
