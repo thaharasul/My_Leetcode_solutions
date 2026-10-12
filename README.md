@@ -54,6 +54,7 @@
 | [0287-find-the-duplicate-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -276,6 +277,7 @@
 | [0152-maximum-product-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0494-target-sum) |
