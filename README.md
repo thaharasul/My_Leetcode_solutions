@@ -157,6 +157,7 @@
 | [0143-reorder-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -325,6 +326,7 @@
 | [0076-minimum-window-substring](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -468,6 +470,7 @@
 | [0143-reorder-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
