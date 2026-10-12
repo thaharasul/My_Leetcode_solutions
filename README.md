@@ -85,6 +85,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1046-last-stone-weight](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -589,6 +590,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
