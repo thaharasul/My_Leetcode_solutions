@@ -67,6 +67,7 @@
 | [0518-coin-change-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -119,6 +120,7 @@
 | [0179-largest-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
 ## Sorting
 |  |
@@ -141,6 +143,7 @@
 | [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0969-pancake-sorting) |
@@ -435,6 +438,7 @@
 | [0496-next-greater-element-i](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
@@ -574,6 +578,7 @@
 | [0332-reconstruct-itinerary](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -606,6 +611,7 @@
 | [0274-h-index](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## Geometry
