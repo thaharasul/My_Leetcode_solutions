@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
@@ -263,6 +264,7 @@
 | [0055-jump-game](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0091-decode-ways) |
@@ -651,6 +653,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0200-number-of-islands) |
