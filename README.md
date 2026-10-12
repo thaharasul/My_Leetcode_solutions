@@ -566,6 +566,7 @@
 | ------- |
 | [0079-word-search](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0079-word-search) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -587,4 +588,16 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0980-unique-paths-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
