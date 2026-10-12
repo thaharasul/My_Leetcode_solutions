@@ -27,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -254,6 +255,7 @@
 | [0002-add-two-numbers](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0258-add-digits) |
@@ -400,6 +402,7 @@
 | [0020-valid-parentheses](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Queue
