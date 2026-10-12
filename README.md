@@ -376,6 +376,7 @@
 | [0046-permutations](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/thaharasul/My_Leetcode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
